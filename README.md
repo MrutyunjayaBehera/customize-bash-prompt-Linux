@@ -1,1 +1,1 @@
-# customize-bash-prompt-Linux
+# customize bash-prompt in Linux
